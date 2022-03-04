@@ -1,6 +1,6 @@
 <h1>codiga code quality</h1>
 
-![code grade] (https://api.codiga.io/project/31508/status/svg)
+![code grade](https://api.codiga.io/project/31508/status/svg)
 
 ![code quality score](https://api.codiga.io/project/31508/score/svg)
 
